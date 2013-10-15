@@ -1,4 +1,6 @@
 SpringEmberTodo
 ===============
 
-The Ember.js Todo tutorial app wrapped up in Spring MVC
+The Ember.js TodoMVC tutorial app wrapped up in Spring MVC.
+
+Original Tutorial: http://emberjs.com/guides/getting-started/
